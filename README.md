@@ -1,7 +1,9 @@
-react-hot-boilerplate
+Fork of Dan Abramov's react-hot-boilerplate but now with react-router included.
+
+react-hot-router
 =====================
 
-The minimal dev environment to enable live-editing React components.
+The minimal dev environment to enable live-editing React components, and react-router.
 
 ### Usage
 
